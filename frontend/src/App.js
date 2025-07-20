@@ -39,7 +39,9 @@ export default function App() {
 
         try {
           // Sending to backend
-          const response = await fetch('https://emotion-detector-jux5.onrender.com', { 
+          // /predict
+          // https://emotion-detector-jux5.onrender.com
+          const response = await fetch('https://emotion-detector-jux5.onrender.com/predict', {
             method: 'POST',
             body: formData,
           });
