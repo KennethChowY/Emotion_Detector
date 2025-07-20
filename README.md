@@ -8,7 +8,9 @@ A website that allows user to record their voice and detect emotions. Where it i
 
 ### Features
 Real time audio recording: Captures microphone audio on the browser using MediaRecorder API
+
 Deep Learning Model: Custom trained Res-Net model to classify 6 different emotions (anger, disgust, fear, happy, neutral, sad). (This model can be found inside notebooks folder labeled resnet_model_best.keras)
+
 Audio Processing: Pipeline that converts raw audio into log mel spectrogram, which is further used to train the model.
 
 
