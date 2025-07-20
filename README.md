@@ -64,5 +64,6 @@ You can open browser and type `http://localhost:3000` to see the application.
 ### Demo
 ![Project Demo](./Demo_Emotion.gif)
 
-### Deployment Status
-Not enough ram on free backend hosting sites.
+### Deployment Status of live demo
+Not enough ram on free backend hosting sites causing server to crash. 
+(Requires a slightly better server (paid) to host this)
