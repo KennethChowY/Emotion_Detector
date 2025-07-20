@@ -58,8 +58,7 @@ npm install
 npm start
 ```
 
-
-You can open browser and type `http://localhost:3000` to see the application.
+After setting up the above, run the website locally on your computer by going to your browser and typing `http://localhost:3000`.
 
 ### Demo
 ![Project Demo](./Demo_Emotion.gif)
