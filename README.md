@@ -21,7 +21,7 @@ Audio Processing: Pipeline that converts raw audio into log mel spectrogram, whi
 
 ### Improvements in the future
 - Try and improve accuracy 
-- Try other model architectures 
+- Try other model architectures such as RNNs or Transformers
 - Use more features
 
 
@@ -60,3 +60,9 @@ npm start
 
 
 You can open browser and type `http://localhost:3000` to see the application.
+
+### Demo
+![Project Demo](./Demo_Emotion.gif)
+
+### Deployment Status
+Not enough ram on free backend hosting sites.
